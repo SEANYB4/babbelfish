@@ -1,0 +1,1 @@
+('/home/seanyb4/workspace/babelfish/build/main/PYZ-00.pyz', [])
